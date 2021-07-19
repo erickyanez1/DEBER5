@@ -72,7 +72,8 @@
 Se concluye que:
 
 - .
-- .
+- Un capacitor es un componente de circuito diseñado para almacenar carga eléctrica. Si se conecta una fuente de voltaje de cd a un capacitor, éste
+se cargará al voltaje de la fuente. Si se desconecta la fuente, el capacitor permanecerá cargado, es decir, su voltaje permanecerá constante.
 - .
 
 

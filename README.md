@@ -25,7 +25,7 @@
   
 # **2. MARCO TEÓRICO**
 
-- Capítulo 7
+- Capítulo 9
 <div align="center">
 
 
@@ -36,7 +36,7 @@
 </div>
 
 
-- Capítulo 8
+- Capítulo 10
 <div align="center">
 
 
@@ -48,7 +48,7 @@
 
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
-- Capítulo 7
+- Capítulo 9
 <div align="center">
 
   
@@ -56,7 +56,7 @@
 
 </div>
 
-- Capítulo 8
+- Capítulo 10
 <div align="center">
 
 

@@ -58,7 +58,15 @@
 - Capítulo 9
 <div align="center">
 
-  
+
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/35.PNG)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/37.PNG) 
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/39-1.PNG)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/39-2.PNG)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/41.PNG)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/49-1.PNG)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/49-2.PNG)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/51.PNG)
 
 
 </div>
@@ -66,8 +74,16 @@
 - Capítulo 10
 <div align="center">
 
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/10-1.PNG)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/10-3.PNG)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/10-5.PNG)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/10-7.PNG)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/10-9.PNG)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/10-11.PNG)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/10-112.PNG)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/10-13.PNG)
 
-  
+
 </div>
 
 # **4. VÍDEO**

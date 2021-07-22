@@ -113,7 +113,7 @@ Se concluye que:
 - Las capacitancias son la carga que tendrá un capacitor, esta dependerá tanto de la capacitancia total como de su material y distancia en los cuales se encuentren los capacitores, con esto se puede decir que a mayor área mayor será la carga y que capacitores en paralelo son capaces de guardar más energía que si se encontraran en serie.
 - Un capacitor es un componente de circuito diseñado para almacenar carga eléctrica. Si se conecta una fuente de voltaje de cd a un capacitor, éste
 se cargará al voltaje de la fuente. Si se desconecta la fuente, el capacitor permanecerá cargado, es decir, su voltaje permanecerá constante.
-- .
+- El teorema de Thevenin y de Norton nos sirven para reducir un circuito complejo en uno mucho mas sencillo para medir corriente y voltaje en algún elecmento del mismo, tambien pudimos observar que las resistencias de ambos teoremas son las mismas por lo que la ley de ohm relaciona a estos do0s y se le puede utilizar para encontrar dicha resistencia.
 
 
 # **6. BIBLIOGRAFÍA**

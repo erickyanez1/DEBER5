@@ -38,7 +38,7 @@
 
 - Capítulo 10
 <div align="center">
-
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/Mapa_Cap10_P1.jpg)
 
 
 </div>

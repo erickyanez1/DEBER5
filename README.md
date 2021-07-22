@@ -28,8 +28,11 @@
 - Capítulo 9
 <div align="center">
 
-
-  
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/Marco_Teorico_1_cap9.png)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/Marco_Teorico_2_cap9.png)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/Marco_Teorico_3_cap9.png)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/Marco_Teorico_4_cap9.png)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/Marco_Teorico_5_cap9.png)
   
 
 
@@ -58,7 +61,20 @@
 - Capítulo 9
 <div align="center">
 
-
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/Ejer_1_cap9.png)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/Ejer_3_cap9.png)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/Ejer_5_cap9.png)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/Ejer_7_cap9.png)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/Ejer_9_cap9.png)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/Ejer_11_cap9.png)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/Ejer_13_15_cap9.png)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/Ejer_17_cap9.png)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/Ejer_19_cap9.png)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/Ejer_21_23_cap9.png)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/Ejer_25_cap9.png)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/Ejer_27_29_cap9.png)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/Ejer_31_cap9.png)
+![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/Ejer_33_cap9.png)
 ![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/35.PNG)
 ![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/37.PNG) 
 ![](https://github.com/erickyanez1/DEBER5/blob/main/IMG/39-1.PNG)
